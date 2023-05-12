@@ -5,7 +5,7 @@ I'm a CS student with a passion for coding and software development. Welcome to 
 ## About Me
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Computer Science.
-- 💻 I'm proficient in Python, JavaScript, html, Css, C#, and C++ programming languages.
+- 💻 I'm proficient in Python, JavaScript, C#, and C++ programming languages.
 - 🤔 I'm interested in working on projects related to web development, Desktop app development, and Game development.
 
 ## Projects
