@@ -26,9 +26,9 @@ Here are a few of my noteworthy projects:
 
 Feel free to connect with me on social media or email:
 
+- Website: <a href="https://www.brettwilsondev.com/" target="_blank">brettwilsondev.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/brettwilsonbdw/" target="_blank">brettwilsonbdw</a>
 - Github: [BrettWilsonBDW](https://github.com/brettwilsonbdw)
-- LinkedIn: [brettwilsonbdw](https://www.linkedin.com/in/brettwilsonbdw/)
-- Website: [brettwilsondev](https://www.brettwilsondev.com/)
 - Email: [brett.david.wilson.message@outlook.com](mailto:brett.david.wilson.message@outlook.com)
 
 Thanks for stopping by my profile!
