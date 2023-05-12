@@ -29,7 +29,7 @@ Feel free to connect with me on social media or email:
 - Github: [BrettWilsonBDW](https://github.com/brettwilsonbdw)
 - LinkedIn: [brettwilsonbdw](https://www.linkedin.com/in/brettwilsonbdw/)
 - Website: [brettwilsondev](https://www.brettwilsondev.com/)
-- Email: brett.david.wilson.message@outlook.com
+- Email: [brett.david.wilson.message@outlook.com](mailto:brett.david.wilson.message@outlook.com)
 
 Thanks for stopping by my profile!
 
