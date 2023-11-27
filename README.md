@@ -12,8 +12,7 @@ I'm a CS student with a passion for coding and software development. Welcome to 
 
 Here are a few of my noteworthy projects:
 
-- [pokedexV2](https://github.com/BrettWilsonBDW/pokedexv2) - My previous pokedex made faster and better.
-- [calc-py](https://github.com/BrettWilsonBDW/calc-py) - Simple web python calculator made using pyscript.
+- [space-invaders-clone](https://github.com/BrettWilsonBDW/space-invaders-clone) - A clone of space invaders in c++ using raylib.
 - [portfolio-website](https://github.com/BrettWilsonBDW/portfolio-website) - My current active portfolio website.
 
 ## Skills
