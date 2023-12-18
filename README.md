@@ -12,6 +12,7 @@ I'm a CS student with a passion for coding and software development. Welcome to 
 
 Here are a few of my noteworthy projects:
 
+- [lpr-solver-tool](https://github.com/BrettWilsonBDW/lpr-solver-tool) - A clone of space invaders in c++ using raylib.
 - [space-invaders-clone](https://github.com/BrettWilsonBDW/space-invaders-clone) - A clone of space invaders in c++ using raylib.
 - [portfolio-website](https://github.com/BrettWilsonBDW/portfolio-website) - My current active portfolio website.
 
