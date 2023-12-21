@@ -20,7 +20,7 @@ Here are a few of my noteworthy projects:
 
 - Programming languages: Python, C#, C++
 - Web technologies: HTML, CSS, JavaScript
-- Tools: Git, VS Code, Visual Studio
+- Tools: Git, VS Code, Visual Studio, cmake
 
 ## Contact Me
 
