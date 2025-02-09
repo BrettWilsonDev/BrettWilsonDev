@@ -13,7 +13,7 @@ I'm a CS student with a passion for coding and software development. Welcome to 
 Here are a few of my noteworthy projects:
 
 - [lpr-solver-tool](https://github.com/BrettWilsonBDW/lpr-solver-tool) - Lp simplex solver tool written in c++ using imgui and raylib.
-- [space-invaders-clone](https://github.com/BrettWilsonBDW/space-invaders-clone) - A clone of space invaders in c++ using raylib.
+- [space-invaders-mk2](https://github.com/BrettWilsonBDW/space-invaders-mk2) - A space invaders like game made using SDL3
 - [portfolio-website](https://github.com/BrettWilsonBDW/portfolio-website) - My current active portfolio website.
 
 ## Skills
