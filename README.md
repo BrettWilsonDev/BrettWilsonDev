@@ -8,14 +8,6 @@ I'm a CS student with a passion for coding and software development. Welcome to 
 - 💻 I'm proficient in Python, JavaScript, C#, and C++ programming languages.
 - 🤔 I'm interested in working on projects related to web development, Desktop app development, and Game development.
 
-## Projects
-
-Here are a few of my noteworthy projects:
-
-- [lpr-solver-tool](https://github.com/BrettWilsonDev/lpr-solver-tool) - Lp simplex solver tool written in c++ using imgui and raylib.
-- [space-invaders-mk2](https://github.com/BrettWilsonDev/space-invaders-mk2) - A space invaders like game made using SDL3
-- [portfolio-website](https://github.com/BrettWilsonDev/portfolio-website) - My current active portfolio website.
-
 ## Skills
 
 - Programming languages: Python, C#, C++
