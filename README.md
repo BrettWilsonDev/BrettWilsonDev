@@ -12,9 +12,9 @@ I'm a CS student with a passion for coding and software development. Welcome to 
 
 Here are a few of my noteworthy projects:
 
-- [lpr-solver-tool](https://github.com/BrettWilsonBDW/lpr-solver-tool) - Lp simplex solver tool written in c++ using imgui and raylib.
-- [space-invaders-mk2](https://github.com/BrettWilsonBDW/space-invaders-mk2) - A space invaders like game made using SDL3
-- [portfolio-website](https://github.com/BrettWilsonBDW/portfolio-website) - My current active portfolio website.
+- [lpr-solver-tool](https://github.com/BrettWilsonDev/lpr-solver-tool) - Lp simplex solver tool written in c++ using imgui and raylib.
+- [space-invaders-mk2](https://github.com/BrettWilsonDev/space-invaders-mk2) - A space invaders like game made using SDL3
+- [portfolio-website](https://github.com/BrettWilsonDev/portfolio-website) - My current active portfolio website.
 
 ## Skills
 
@@ -27,8 +27,8 @@ Here are a few of my noteworthy projects:
 Feel free to connect with me on social media or email:
 
 - Website: [brettwilsondev](https://www.brettwilsondev.com/)
-- LinkedIn: [brettwilsonbdw](https://www.linkedin.com/in/brettwilsonbdw/)
-- Github: [BrettWilsonBDW](https://github.com/brettwilsonbdw)
+- LinkedIn: [BrettWilsonDev](https://www.linkedin.com/in/BrettWilsonDev/)
+- Github: [BrettWilsonDev](https://github.com/BrettWilsonDev)
 - Email: [brett.david.wilson.message@outlook.com](mailto:brett.david.wilson.message@outlook.com)
 
 Thanks for stopping by my profile!
