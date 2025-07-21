@@ -1,27 +1,50 @@
-# Greetings, I'm Brett Wilson! 👋
+<!-- Optional header banner -->
+<!-- ![Header](https://yourdomain.com/your-header-image.png) -->
+
+# Brett Wilson
+
+> _"The best programmer in the room is the one who has made the most mistakes."_
+
 
 I'm a CS student with a passion for coding and software development. Welcome to my Github profile! Here, you'll find some of my personal projects and coding experiments.
 
+---
+
 ## About Me
 
-- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science.
-- 💻 I'm proficient in Python, JavaScript, C#, and C++ programming languages.
-- 🤔 I'm interested in working on projects related to web development, Desktop app development, and Game development.
+- Pursuing a Bachelor's degree in Computer Science  
+- Proficient in Python, JavaScript, C#, and C++  
+- Passionate about Web, Desktop, and Game development  
 
-## Skills
+---
 
-- Programming languages: Python, C#, C++
-- Web technologies: HTML, CSS, JavaScript
-- Tools: Git, VS Code, Visual Studio, cmake
+## Skills & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+
+---
 
 ## Contact Me
 
-Feel free to connect with me on social media or email:
-
-- Website: [brettwilsondev](https://www.brettwilsondev.com/)
+- Website: [brettwilsondev.com](https://www.brettwilsondev.com/)
 - LinkedIn: [brettwilsonbdw](https://www.linkedin.com/in/brettwilsonbdw/)
-- Github: [BrettWilsonDev](https://github.com/BrettWilsonDev)
+- GitHub: [BrettWilsonDev](https://github.com/BrettWilsonDev)
 - Email: [brett.david.wilson.message@outlook.com](mailto:brett.david.wilson.message@outlook.com)
 
-Thanks for stopping by my profile!
+---
 
+## GitHub Stats
+
+![Brett's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrettWilsonDev&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrettWilsonDev&layout=compact&theme=radical&hide_border=true)
