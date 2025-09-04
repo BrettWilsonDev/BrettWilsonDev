@@ -1,6 +1,3 @@
-<!-- Optional header banner -->
-<!-- ![Header](https://yourdomain.com/your-header-image.png) -->
-
 # Brett Wilson
 
 > _"The best programmer in the room is the one who has made the most mistakes."_
@@ -36,10 +33,21 @@ I'm a CS student with a passion for coding and software development. Welcome to 
 
 ## Contact Me
 
-- Website: [brettwilsondev.com](https://www.brettwilsondev.com/)
-- LinkedIn: [brettwilsonbdw](https://www.linkedin.com/in/brettwilsonbdw/)
-- GitHub: [BrettWilsonDev](https://github.com/BrettWilsonDev)
-- Email: [brett.david.wilson.message@outlook.com](mailto:brett.david.wilson.message@outlook.com)
+<p>
+  <a href="https://www.brettwilsondev.com/">
+    <img src="https://www.brettwilsondev.com/assets/images/favicon.ico" width="40" height="40" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brettwilsonbdw/">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/BrettWilsonDev">
+    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="mailto:brett.david.wilson.message@outlook.com">
+    <img src="https://img.icons8.com/ios-glyphs/50/D14836/new-post.png" width="40" height="40" alt="Email"/>
+  </a>
+</p>
+
 
 ---
 
