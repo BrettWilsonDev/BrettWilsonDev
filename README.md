@@ -5,15 +5,21 @@
 
 I'm a CS student with a passion for coding and software development. Welcome to my Github profile! Here, you'll find some of my personal projects and coding experiments.
 
----
-
 ## About Me
 
 - Pursuing a Bachelor's degree in Computer Science  
 - Proficient in Python, JavaScript, C#, and C++  
-- Passionate about Web, Desktop, and Game development  
+- Passionate about Web, Desktop, and Game development
 
----
+## Contact Me
+
+[<img align="left" alt="" width="40px" src="https://www.brettwilsondev.com/assets/images/favicon.ico" />](https://www.brettwilsondev.com/)
+[<img align="left" alt="" width="40px" src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />](https://www.linkedin.com/in/brettwilsonbdw/)
+[<img align="left" alt="" width="40px" src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" />](https://github.com/BrettWilsonDev)
+[<img align="left" alt="" width="40px" src="https://img.icons8.com/ios-glyphs/50/D14836/new-post.png" />](mailto:brett.david.wilson.message@outlook.com)
+
+<br>
+<br>
 
 ## Skills & Tools
 
@@ -28,28 +34,6 @@ I'm a CS student with a passion for coding and software development. Welcome to 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-
----
-
-## Contact Me
-
-<p>
-  <a href="https://www.brettwilsondev.com/">
-    <img src="https://www.brettwilsondev.com/assets/images/favicon.ico" width="40" height="40" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brettwilsonbdw/">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/BrettWilsonDev">
-    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="mailto:brett.david.wilson.message@outlook.com">
-    <img src="https://img.icons8.com/ios-glyphs/50/D14836/new-post.png" width="40" height="40" alt="Email"/>
-  </a>
-</p>
-
-
----
 
 ## GitHub Stats
 
